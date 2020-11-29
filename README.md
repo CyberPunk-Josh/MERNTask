@@ -1,3 +1,6 @@
+## Acerca de este proyecto
+MERNTask es un proyecto MERN donde se puede crear una cuenta y crear proyectos, asi como añadir tareas a estos ultimosm editar y borrar tareas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
