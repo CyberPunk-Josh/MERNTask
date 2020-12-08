@@ -86,6 +86,7 @@ a {
   padding: 0;
   display: block;
   background-color: transparent;
+  /* color: #ffffff; */
 }
 
 @media (min-width: 768px) {
